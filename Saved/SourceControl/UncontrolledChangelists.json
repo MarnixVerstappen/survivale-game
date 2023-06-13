@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/marni/OneDrive/Documenten/GitHub/survivale-game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/marni/OneDrive/Documenten/GitHub/survivale-game/Content/StarterContent/Materials/M_Metal_Gold.uasset",
 				"C:/Users/marni/OneDrive/Documenten/Unreal Projects/Survival/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/marni/OneDrive/Documenten/Unreal Projects/Survival/Content/Open-World.umap",
 				"C:/Users/marni/OneDrive/Documenten/Unreal Projects/Survival/Content/EasyBuildingSystem/Materials/Masters/Stylized/Grass_LayerInfo.uasset",
